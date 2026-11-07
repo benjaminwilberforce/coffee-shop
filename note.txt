@@ -1,0 +1,4 @@
+place whole thing in a container
+add a menu icon in mobile view
+card styling when hovered
+align "pick your plan" section card button vertically
